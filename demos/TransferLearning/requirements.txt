@@ -6,3 +6,4 @@ matplotlib
 jupyter
 IPython
 argparse
+keras>=2.13.1rc0 # not directly required, pinned by Snyk to avoid a vulnerability
